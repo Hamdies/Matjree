@@ -1,4 +1,4 @@
-# cashier
+# Matjree
 
 Matjree Full Ecommerce App
 
